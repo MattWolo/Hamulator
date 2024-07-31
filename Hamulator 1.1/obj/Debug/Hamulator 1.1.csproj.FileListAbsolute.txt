@@ -1,0 +1,44 @@
+C:\Users\4htp.S236\source\repos\Hamulator 1.1\Hamulator 1.1\bin\Debug\Hamulator 1.1.exe.config
+C:\Users\4htp.S236\source\repos\Hamulator 1.1\Hamulator 1.1\bin\Debug\Hamulator 1.1.exe
+C:\Users\4htp.S236\source\repos\Hamulator 1.1\Hamulator 1.1\bin\Debug\Hamulator 1.1.pdb
+C:\Users\4htp.S236\source\repos\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.csproj.AssemblyReference.cache
+C:\Users\4htp.S236\source\repos\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator_1._1.Properties.Resources.resources
+C:\Users\4htp.S236\source\repos\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.csproj.GenerateResource.cache
+C:\Users\4htp.S236\source\repos\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.csproj.CoreCompileInputs.cache
+C:\Users\4htp.S236\source\repos\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.exe
+C:\Users\4htp.S236\source\repos\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.pdb
+C:\Users\4htp.S236\source\repos\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator_1._1.HamulatorMain.resources
+C:\Users\mates\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\bin\Debug\Hamulator 1.1.exe.config
+C:\Users\mates\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\bin\Debug\Hamulator 1.1.exe
+C:\Users\mates\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\bin\Debug\Hamulator 1.1.pdb
+C:\Users\mates\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.csproj.AssemblyReference.cache
+C:\Users\mates\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator_1._1.HamulatorMain.resources
+C:\Users\mates\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator_1._1.HamulatorWynik.resources
+C:\Users\mates\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator_1._1.Properties.Resources.resources
+C:\Users\mates\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.csproj.GenerateResource.cache
+C:\Users\mates\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.csproj.CoreCompileInputs.cache
+C:\Users\mates\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.exe
+C:\Users\mates\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.pdb
+C:\Users\Game\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\bin\Debug\Hamulator 1.1.exe.config
+C:\Users\Game\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\bin\Debug\Hamulator 1.1.exe
+C:\Users\Game\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\bin\Debug\Hamulator 1.1.pdb
+C:\Users\Game\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.csproj.AssemblyReference.cache
+C:\Users\Game\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Game\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator_1._1.HamulatorMain.resources
+C:\Users\Game\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator_1._1.HamulatorWynik.resources
+C:\Users\Game\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator_1._1.Properties.Resources.resources
+C:\Users\Game\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.csproj.GenerateResource.cache
+C:\Users\Game\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Game\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.exe
+C:\Users\Game\Desktop\Hamulator_1.1\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.pdb
+C:\Users\mates\Desktop\Hamulator_1.3\Hamulator 1.1\Hamulator 1.1\bin\Debug\Hamulator 1.1.exe.config
+C:\Users\mates\Desktop\Hamulator_1.3\Hamulator 1.1\Hamulator 1.1\bin\Debug\Hamulator 1.1.exe
+C:\Users\mates\Desktop\Hamulator_1.3\Hamulator 1.1\Hamulator 1.1\bin\Debug\Hamulator 1.1.pdb
+C:\Users\mates\Desktop\Hamulator_1.3\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.csproj.AssemblyReference.cache
+C:\Users\mates\Desktop\Hamulator_1.3\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator_1._1.HamulatorMain.resources
+C:\Users\mates\Desktop\Hamulator_1.3\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator_1._1.HamulatorWynik.resources
+C:\Users\mates\Desktop\Hamulator_1.3\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator_1._1.Properties.Resources.resources
+C:\Users\mates\Desktop\Hamulator_1.3\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.csproj.GenerateResource.cache
+C:\Users\mates\Desktop\Hamulator_1.3\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.csproj.CoreCompileInputs.cache
+C:\Users\mates\Desktop\Hamulator_1.3\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.exe
+C:\Users\mates\Desktop\Hamulator_1.3\Hamulator 1.1\Hamulator 1.1\obj\Debug\Hamulator 1.1.pdb
